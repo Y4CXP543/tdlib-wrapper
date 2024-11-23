@@ -1,1 +1,153 @@
-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
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>yacopsae</groupId>
+    <artifactId>tdlib-wrapper</artifactId>
+    <version>22d49d5-archlinux</version>
+
+    <properties>
+        <aspectj.version>1.9.22.1</aspectj.version>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.aspectj</groupId>
+            <artifactId>aspectjrt</artifactId>
+            <version>${aspectj.version}</version>
+        </dependency>
+    </dependencies>
+
+    <distributionManagement>
+        <repository>
+            <id>central</id>
+            <name>1.jfrog-releases</name>
+            <url>http://1.jfrog:8081/artifactory/libs-release</url>
+        </repository>
+        <snapshotRepository>
+            <id>snapshots</id>
+            <name>1.jfrog-snapshots</name>
+            <url>http://1.jfrog:8081/artifactory/libs-snapshot</url>
+        </snapshotRepository>
+    </distributionManagement>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-install-plugin</artifactId>
+                <version>2.4</version>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-deploy-plugin</artifactId>
+                <version>2.7</version>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-resources-plugin</artifactId>
+                <version>2.6</version>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <id>default-compile</id>
+                        <phase>none</phase>
+                    </execution>
+                    <execution>
+                        <id>default-testCompile</id>
+                        <phase>none</phase>
+                    </execution>
+                </executions>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>2.4</version>
+                <executions>
+                    <execution>
+                        <id>default-jar</id>
+                    </execution>
+                </executions>
+                <configuration>
+                    <excludes>
+                        <exclude>**/org/drinkless/tdlib/example/*.class</exclude>
+                    </excludes>
+                    <includes>
+                        <include>**/org/drinkless/tdlib/*.class</include>
+                        <include>**/yacopsae/aspect/*.class</include>
+                        <include>**/libtdjni.so</include>
+                    </includes>
+                </configuration>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>2.12.4</version>
+                <executions>
+                    <execution>
+                        <id>default-test</id>
+                        <configuration>
+                            <skip>true</skip>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>aspectj-maven-plugin</artifactId>
+                <version>1.15.0</version>
+                <configuration>
+                    <detail>true</detail>
+                    <complianceLevel>${maven.compiler.target}</complianceLevel>
+                    <source>${maven.compiler.source}</source>
+                    <target>${maven.compiler.target}</target>
+                    <showWeaveInfo>true</showWeaveInfo>
+                    <verbose>true</verbose>
+                    <Xlint>ignore</Xlint>
+                    <encoding>UTF-8</encoding>
+                    <weaveWithAspectsInMainSourceFolder>true</weaveWithAspectsInMainSourceFolder>
+                    <weaveDirectories>${basedir}/lib/td/tdlib/bin/</weaveDirectories>
+                </configuration>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>compile</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <dependencies>
+                    <dependency>
+                        <groupId>org.aspectj</groupId>
+                        <artifactId>aspectjtools</artifactId>
+                        <version>${aspectj.version}</version>
+                    </dependency>
+                </dependencies>
+            </plugin>
+        </plugins>
+
+        <resources>
+            <resource>
+                <directory>${project.basedir}/lib/td/tdlib/bin/</directory>
+                <targetPath>${project.build.outputDirectory}/yacopsae/aspect</targetPath>
+                <includes>
+                    <include>libtdjni.so</include>
+                </includes>
+            </resource>
+        </resources>
+    </build>
+</project>
